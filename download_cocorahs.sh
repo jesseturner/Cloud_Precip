@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-for date in "12/25/2024";
+for date in "12/28/2024";
 
 do
 
